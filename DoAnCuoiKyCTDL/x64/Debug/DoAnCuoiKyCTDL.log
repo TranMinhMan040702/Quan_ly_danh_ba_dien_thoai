@@ -1,0 +1,11 @@
+﻿  DoAnCuoiKyCTDL.cpp
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(62,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(68,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(142,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(143,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(171,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(172,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(351,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(357,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL\DoAnCuoiKyCTDL.cpp(515,7): warning C4101: 'keysearch': unreferenced local variable
+  DoAnCuoiKyCTDL.vcxproj -> C:\Users\ADMIN\OneDrive\Máy tính\DoAnCuoiKyCTDL\x64\Debug\DoAnCuoiKyCTDL.exe
